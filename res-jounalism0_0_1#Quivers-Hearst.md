@@ -12,14 +12,6 @@ Cross platform tool for resume management and transfer.  *data UI, data interfac
 May-2018 Current Job
 Developed an architectural design course based on parametrics and algorithms. Students use algorithms to generate and explore spacial experiences.  The course is offered as an elective for the graduate curriculum in the school of architecture and urban planning, and focuses on the synthesis of space as well as visualization techniques with modern 3D graphics software, *Rhinoceros, Grasshopper, AutoDesk Maya, Infographic Design, print, graphics, illustrator, photoshop, indesign*
 
-###### Logistics Manager-RUTLAND BEARD FLORAL CORPORATION  
-November-2021 to October-2022
-Lead dispatcher for delivery team.   Organizes logistical tasks and achieved 100% delivery rate for current day deliveries.  Managed schedule for delivery contractors.  Developed and oversaw strategies for large orders and specialized on-site floral installations.  Conducted regional analysis, strategy development feasibility studies, executed performance improvement plans.
-
-###### Merchandising Analytics Team Lead-Home Depot  
-December-2020 to May-2021
-Team leader responsible for executing merchandising campaigns for retail at various locations in the Baltimore region.  Tasks involved assigning plan-o-grams, conducting surveys at bays, conducting product merchandising analysis, SEO and keyword analysis, and large-scale visualizations and reports.
-
 ###### Software Engineer-INNOVATIVE DRIVE CORPORATION  
 March-2020 to January-2021
 Developed a hardware prototype for a client to automate the production of orthotics. Designed the printed circuitry within sensor array panels and created a data processing algorithm in C# for sensor measurements.  Created and improved a user touchscreen interface with ARDUINO microprocessors, which was used to control a dynamically tuned, shock point display in  *.net and react.js., data viewer, data analytics, medical*

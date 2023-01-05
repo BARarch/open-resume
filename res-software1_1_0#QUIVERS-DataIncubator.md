@@ -34,10 +34,6 @@ Coordinated and managed development operations for a New York zoning web platfor
 
 # eduaction
 
-###### The Data Incubator
-CERTIFICATION in Data Science
-Graduated in Nov 2020
-
 ###### California College of the Arts  
 MASTERS in Architecture
 Graduated in May 2014
