@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Technical Job Application Container
+This is an app you can use to prepare job application documents.  You can manage resumes, cover letters, references and contacts across separate industries, from one location available from EVERYWHERE!.
+
+I am developing a platform for cloud-based job application management.  I thank you for connecting and hope we can work together!  I have new features listed in the issues.
+
+## NewsGaurd Notes
+I gathered some material from the NewsGuard job application.
+### Sample References 
+/reference-materials-cover-letters/referenes-Quivers.md
+### Sample Cover Letter for Journalism
+/reference-materials-cover-letters/cov-journalism-Quivers.md
+### Cover Letter Template 
+
+
+
+#  Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
