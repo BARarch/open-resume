@@ -4,7 +4,7 @@ This is an app you can use to prepare job application documents.  You can manage
 I am developing a platform for cloud-based job application management.  I thank you for connecting and hope we can work together!  I have new features listed in the issues.
 
 ## NewsGaurd Notes
-I gathered some material from the NewsGuard job application.
+Gathered some material from the NewsGuard job application.
 ### Sample References 
 /reference-materials-cover-letters/referenes-Quivers.md
 ### Sample Cover Letter for Journalism
