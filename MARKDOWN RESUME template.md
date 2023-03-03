@@ -8,6 +8,14 @@ Cross platform tool for resume management and transfer.
 
 # experience
 
+###### Competitive Coder-HOMOALGORITICUS
+May-2022 Current Job
+Competes internationally in coding competitions.  Produces content for solutions to challenges in algorithms, data structures and mathematics, and runs vlog and livestream.  Creates social media and educational material. 
+
+###### Vlog Organizer and Broadcast Engineer-HOMOALGORITICUS
+May-2022 Current Job
+Produces content for competitive coding vlog and livestream.  Manages graphics, audio, video lighting, and scripts for broadcast activities.  Creates social media and educational material. 
+
 ###### Professor-MORGAN STATE UNIVERSITY  
 May-2018 Current Job
 Developed an architectural design course based on parametrics and algorithms. Students use algorithms to generate and explore spacial experiences.  The course is offered as an elective for the graduate curriculum in the school of architecture and urban planning, and focuses on the synthesis of space as well as visualization techniques with modern 3D graphics software.
@@ -36,7 +44,7 @@ Developed a hardware prototype for a client to automate the production of orthot
 July-2016 to May-2017
 Coordinated and managed development operations for a New York zoning web platform. Responsible for the information architecture of the company’s’ proprietary dataset. Designed user interfaces with feature wireframes in photoshop and indesign. Developed algorithms for the backend computation of the services’ key features in ruby and ruby-on-rails. Enhanced the delivery time of in-house property feasibility reports from 2 weeks to 2 hours.
 
-# eduaction
+# education
 
 ###### The Data Incubator
 CERTIFICATION in Data Science
@@ -68,15 +76,19 @@ Ability-to-Make-an-Impact  Work-Life-Balance  Goal-Completion  Growth-Opportunit
 
 # links
 
-**GITHUB**- https://github.com/BARarch
-
-**PORTFOLIO**- https://github.com/BARarch/My-Hackerranks
-
 **HACKERRANK**- https://www.hackerrank.com/homoAlgoriticus
 
 **CODESIGNAL**- https://app.codesignal.com/profile/homoalgoriticus
 
+**LEETCODE**- https://leetcode.com/homoAlgoriticus/
+
+**PORTFOLIO**- https://github.com/BARarch/My-Hackerranks
+
 **LINKEDIN**- https://www.linkedin.com/in/anthonyquivers/
+
+**GITHUB**- https://github.com/BARarch
+
+**TWITCH**- https://www.twitch.tv/homoalgoriticus
 
 # contact
 
