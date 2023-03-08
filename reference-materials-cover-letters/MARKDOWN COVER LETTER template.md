@@ -1,6 +1,6 @@
 Dear Representative,
 
-I am truly honored to have an opportunity to produce content for this this group.  I seek to learn and grow in the media industry.
+I am truly honored to have an opportunity to produce content for this this group.  I seek to learn and grow in the data science industry.
 
 A little about me-
 As a freelance software engineer and data visualization specialist, I bring extensive experience as an analyst though the use of modern digital and internet research tools.  I have a passion for data in media content.  On the side, I do competitive coding.  I like to do those software interview questions, and see it as kind of a sport! Currently, I'm in the process of starting a blog and video channel for algorithm and data structure coding solutions.    
@@ -15,7 +15,7 @@ https://github.com/BARarch/My-Hackerranks/tree/main/commentary
 ...and visit my twitch channel
 https://www.twitch.tv/homoalgoriticus   
 
-Your consideration of my candidacy to this internship post is greatly appreciated.  Please contact me if you have any questions.  I look forward to hearing from you.
+Your consideration of my candidacy to this machine learning develper role is greatly appreciated.  Please contact me if you have any questions.  I look forward to hearing from you.
 
 Best Regards,
 Anthony Quivers
