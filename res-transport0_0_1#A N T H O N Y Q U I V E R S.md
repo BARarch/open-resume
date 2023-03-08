@@ -2,43 +2,71 @@
 
 # experience
 
-###### Logistics Manager-RUTLAND BEARD FLORAL CORPORATION  
-November-2021 to October-2022
-Lead dispatcher for delivery team.   Organizes logistical tasks and achieved 100% delivery rate for current day deliveries.  Managed schedule for delivery contractors.  Developed and oversaw strategies for large orders and specialized on-site floral installations.
-
-###### Delivery Driver-RUTLAND BEARD FLORAL CORPORATION
-October-2021 to October-2022
-Delivered floral products door to door throughout Frederick, MD and the Baltimore metropolitan area.  Additional responsibilities included store product handling and transport, as well as interstate wholesale transportation.
-
-###### Traveling Merchandising Associate-HOME DEPOT COROPERATION
-December-2021 to May-2022
-Responsible for executing merchandising programs in 10 stores in the Baltimore region. Tasks involved assigning plan-o-grams, conducting safety surveys for in-store bays, recycling new product, and the construction large-scale displays and installations.  *Ability requirements included operating heavy equipment including forklifts, cherrypickers, working in confined areas, working at up to 40 feet from ground, balancing, lifting product and equipment weighing up to 50lbs both inside and outside, overnight*
-
 ###### Processing Engineer and Logistics Lead
-January-2019 to October-2022
+January-2019 to October-2022\
 Warehouse processing lead. Responsible for managing the flow of product from truck to design floor.  Worked in confined areas.  *Constructed and maintained servicing bays, storage bays, work areas, and did general maintenance for warehouse grounds.  Processed floral product, handled soils, plant foods, and other packages weighing 50lbs. and more.*
 
+###### Traveling Merchandising Associate-HOME DEPOT CORPORATION
+December-2021 to May-2022\  
+Responsible for executing merchandising programs in 10 stores in the Baltimore region. Tasks involved assigning plan-o-grams, conducting safety surveys for in-store bays, recycling new product, and the construction large-scale displays and installations.  *Ability requirements included operating heavy equipment including forklifts, cherrypickers, working in confined areas, working at up to 40 feet from ground, balancing, lifting product and equipment weighing up to 50lbs both inside and outside, overnight*
+ 
 ###### Special Inspections Building Code Inspector-MARCH ARCHITECTS
-April-2016 to May-2017
+April-2016 to May-2017\
 Conducted on-site building code inspections for New York City Department of Buildings certification.  Inspections included structural, plumbing, fire insulation, elevated fire sprinkler tanks, roofs and parapets.  *Ability requirements included working in confined areas, maneuvering through confined and or irregular areas, balancing, and working at heights of up to 560ft in all weather conditions*
 
+###### Logistics Manager-RUTLAND BEARD FLORAL CORPORATION  
+November-2021 to October-2022\ 
+Lead dispatcher for delivery team. Organizes logistical tasks and achieved 100% delivery rate for current day deliveries.  
+
++++
 # education
 
 ###### California College of the Arts  
 MASTERS in Architecture
 Graduated in May 2014
+<div>
+<div style="float: left; width: 60%;">
 
+<div style="width: 70%;">
 # skills
+</div>
 
-Logistics-Advanced Floral Industry-Advanced Shipping Warehousing-Advanced Inventory-Advanced Transport-Proficient Delivery-Proficient
+Logistics-Advanced\
+Floral Industry-Advanced\
+Shipping Advanced\
+Warehousing-Advanced\
+Inventory-Advanced\
+PalletJack-Advanced\
+Forklift-Advanced
+Transport-Proficient\
+Delivery-Proficient\ 
+Construction-Proficient\
+Manufacturing-Proficient\
+Web Development-Proficient\
+HTML/CSS/JAVASCRIPT-Proficient\
+Data Collection-Proficient\
+
+</div>
+
+<div style="float: right; width: 40%;">
 
 # behaviors
 
-Detail-Oriented  Thought-Provoking  Enthusiastic  Leader Problem-Solver Deep-Thinker
+Detail-Oriented  
+Thought-Provoking  
+Enthusiastic  
+Leader 
+Problem-Solver  
+Deep-Thinker
 
 # motivations
 
-Ability-to-Make-an-Impact  Work-Life-Balance  Goal-Completion  Growth-Opportunities
+Ability-to-Make-an-Impact\  
+Work-Life-Balance\ 
+Goal-Completion\  
+Growth-Opportunities
+</div>
+</div>
 
 # contact
 

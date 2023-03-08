@@ -4,9 +4,9 @@ Dear Representative,
 
 I appreciate your consideration of my candidacy for the Freight Conductor role at CSX.
 
-With my extensive knowledge in engineering and logistics, and my passion and interest for transport, I am confident I will be an excellent fit for this position. My experience has provided me with the abilities and technical skills necessary to successfully provide and execute solutions across a wide range of approaches.  
+With my extensive knowledge in engineering and logistics, and my passion and interest for transport, I am confident I will be an excellent fit for this position. My experience has provided me with necessary technical skills and abilities.  I hope to successfully execute solutions across a wide range of roles in the transport industries.  
 
-I have refined my strengths through seven years of experience in both the floral, and construction industries. The following is a snapshot of my broader technical skills:
+I have refined my strengths through seven years of experience in both the floral, and construction industries.  The following is a snapshot of my broader technical skills:
 
 Warehouse Management and Construction
 Floral Goods Processing and Storage
@@ -23,3 +23,4 @@ Once again, thank you for considering my candidacy for this position. I hope to 
 Sincerely,
 
 Anthony J. Quivers
+
