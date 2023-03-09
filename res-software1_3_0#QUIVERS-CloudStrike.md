@@ -40,31 +40,83 @@ Graduated in Aug 2018
 BACHELORS in Aerospace Engineering and Information Technology
 Graduated in Jun 2008
 
+<div>
+<div style="float: left; width:60%;">
+
+<div style="width: 60%;">
+
 # skills 
 
-Python-Advanced  Algorithms-Advanced  Urban planning-Advanced  Visualization-Advanced  Algorithms-Advanced ReactJS-SoSo  C#-SoSo  Circuitry-SoSo  Engineer-SoSo  Microprocessors-SoSo  Prototype-SoSo  Prototypes-SoSo  Sensor-SoSo  Software engineer-SoSo  Lead generation-SoSo Sales-SoSo  Go-SoSo  Bash-SoSo  C++-SoSo  Css-SoSo  Data science-SoSo  Html-SoSo  Imaging-SoSo  Information mapping-SoSo  Java-SoSo  Javascript-SoSo  Mapping-SoSo  Matlab-SoSo  Real estate-SoSo  Scala-SoSo  Sql-SoSo  Topo-SoSo  Zoning-SoSo  Aerospace-Novice  SEO-Novice  ElectricalAerospace-Novice AWS-Novice
+Python-Expert\
+Algorithms-Expert\  
+Visualization-Advanced\  
+Algorithms-Advanced\ 
+ReactJS-Proficient\  
+C#-Proficient\  
+Circuitry-SoSo\  
+Engineering-SoSo\  
+Microprocessors-SoSo\  
+Prototype-SoSo\  
+Prototypes-SoSo\  
+Sensor-SoSo\  
+Software engineer-SoSo\   
+Lead generation-SoSo\  
+Sales-SoSo\  
+Go-SoSo\  
+Bash-SoSo\  
+C++-SoSo\  
+Css-SoSo\  
+Data science-SoSo\  
+Html-SoSo\  
+Imaging-SoSo\   
+Information mapping-SoSo\
+Java-SoSo\ 
+Javascript-SoSo\  
+Mapping-SoSo\
+Matlab-SoSo\  
+Real estate-SoSo\  
+Scala-SoSo\  
+Sql-SoSo\  
+Topo-SoSo\  
+Zoning-SoSo\  
+Aerospace-Novice\  
+SEO-Novice\  
+ElectricalAerospace-Novice\ 
+AWS-Novice
+
+</div>
+<div style="float: right; width: 40%;">
 
 # behaviors
 
-Detail-Oriented  Thought-Provoking  Enthusiastic  Leader
+Detail-Oriented\ 
+Thought-Provoking\
+Enthusiastic\
+Leader
 
 # motivations
 
-Ability-to-Make-an-Impact  Work-Life-Balance  Goal-Completion  Growth-Opportunities
+Ability-to-Make-an-Impact\
+Work-Life-Balance\
+Goal-Completion\
+Growth-Opportunities
+
+</div>
+</div>
 
 # links
 
-**HACKERRANK**- https://www.hackerrank.com/homoAlgoriticus
+**HACKERRANK**- https://www.hackerrank.com/homoAlgoriticus  
 
-**CODESIGNAL**- https://app.codesignal.com/profile/homoalgoriticus
+**CODESIGNAL**- https://app.codesignal.com/profile/homoalgoriticus  
 
-**LEETCODE**- https://leetcode.com/homoAlgoriticus/
+**LEETCODE**- https://leetcode.com/homoAlgoriticus/  
 
-**LINKEDIN**- https://www.linkedin.com/in/anthonyquivers/
+**LINKEDIN**- https://www.linkedin.com/in/anthonyquivers/  
 
-**TWITCH**- https://www.twitch.tv/homoalgoriticus
+**TWITCH**- https://www.twitch.tv/homoalgoriticus  
 
-**PORTFOLIO**- https://github.com/BARarch
+**PORTFOLIO**- https://github.com/BARarch  
 
 # contact
 
