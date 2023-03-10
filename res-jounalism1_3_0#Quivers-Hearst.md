@@ -1,22 +1,29 @@
 # A N T H O N Y  Q U I V E R S
 
+<div id="main" style="margin: 0px -50px;">
+<div id="experience" style="margin: 0px 0px; padding: 0px 0px;">
+
 # experience
 
 ###### Vlog Organizer and Broadcast Engineer-HOMOALGORITICUS
-May-2022 Current Job
+May-2022 Current Job\
 Produces content for competitive coding vlog and livestream.  Manages graphics, audio, video lighting, and scripts for broadcast activities.  Creates social media and educational material. *Adobe Illustrator+Photoshop, Twitch Studio, Phillips Hue*
 
 ###### Professor-MORGAN STATE UNIVERSITY  
-May-2018 Current Job
-Developed an architectural design course based on parametrics and algorithms. Students use algorithms to generate and explore spacial experiences.  The course is offered as an elective for the graduate curriculum in the school of architecture and urban planning, and focuses on the synthesis of space as well as visualization techniques with modern 3D graphics software. *Rhinoceros, Grasshopper, AutoDesk Maya, Infographic Design, print, graphics, illustrator, photoshop, indesign*
+May-2018 Current Job\
+Developed an architectural design course based on parametric structures and algorithms. Students use algorithms to generate and explore spacial experiences.  The course is offered as an elective for the graduate curriculum in the school of architecture and urban planning, and focuses on the synthesis of space as well as visualization techniques with modern 3D graphics software. *Rhinoceros, Grasshopper, AutoDesk Maya, Infographic Design, print, graphics, illustrator, photoshop, indesign*
 
 ###### Technical Consultant-BILLHIGHWAY  
-April-2017 to April-2018
+April-2017 to April-2018\
 Programmed a web crawler to collect contact information from over 1,000 client-affiliated websites, enabling the client to rapidly update its existing contacts in Salesforce, and generate over 2,000 new contacts on the first run, reducing its lead generation time from 2 months to 1 hour. Created a Windows native application from *.net and Python* scripts, which consolidated the actions from 5 of the client's software programs into a single application, streamlining their contact management processes to efficiently advance their sales lead generation efforts. *.net and Python*
 
 ###### Product Manager-ZONER INC
-July-2016 to May-2017
-Coordinated and managed development operations for a New York zoning web platform. Responsible for the information architecture of the company’s’ proprietary dataset. Designed user interfaces with feature wireframes in photoshop and indesign. Developed algorithms for the backend computation of the services’ key features in ruby and ruby-on-rails. Enhanced the delivery time of in-house property feasibility reports from 2 weeks to 2 hours. *ruby, rubyonrails, photoshop, illustrator, indesign*
+July-2016 to May-2017\
+Coordinated and managed development operations for a New York zoning web platform. Responsible for the information architecture of the company’s’ proprietary dataset. Designed user interfaces with feature wireframes in photoshop and indesign. Developed algorithms for the backend computation of the services’ key features in ruby and ruby-on-rails. Enhanced the delivery time of in-house property feasibility reports from 2 weeks to 2 hours. *ruby, ruby-on-rails, photoshop, illustrator, indesign*
+
++++
+</div> <!-- id: experience -->
+<div id="education" style="margin:  -10px 0px 0px 0px; padding: 0px 0px;">
 
 # education
 
@@ -36,31 +43,80 @@ Graduated in Aug 2018
 BACHELORS in Aerospace Engineering and Information Technology
 Graduated in Jun 2008
 
+</div> <!-- id:education -->
+<div id="midContainer">
+<div id="skills" style="float: left; width: 30%; margin: 0px 0px; padding: 0px 0px;">
+<div id="skillsHeading" style="margin: -10px 0px; padding: 0px 0px;">
+
 # skills
 
-Engineering-Advanced Research-Advanced Lighting-Advanced Video-Skilled Audio-Skilled Editing-Beginner Content-Skilled
+</div>
+
+Engineering-Advanced\
+Photography-Advanced\
+Research-Advanced\ 
+Lighting-Advanced\ 
+Video-Skilled\ 
+Audio-Skilled\ 
+Editing-Beginner 
+
+</div> <!-- id: skills -->
+<div id="behaviors" style="float: left; width: 30%; margin: 0px 0px; padding: 0px 0px;">
+<div id="behaviorsHeading" style="margin: -10px 0px; padding: 0px 0px;">
 
 # behaviors
 
-Detail-Oriented  Thought-Provoking  Enthusiastic  Leader
+</div>
+
+Detail Oriented\
+Thought Provoking\ 
+Enthusiastic\
+Leader
+
+</div> <!-- id: behaviors -->
+<div id="motivations" style="float: right; width: 40%; margin: 0px 0px; padding: 0px 0px;">
+<div id="motivationsHeading" style="margin: -10px 0px; padding: 0px 0px;">
 
 # motivations
 
-Ability-to-Make-an-Impact  Work-Life-Balance  Goal-Completion  Growth-Opportunities
+</div>
+
+Ability to Make an Impact\
+Work Life Balance\
+Goal Completion\
+Growth Opportunities
+
+</div> <!-- id: motivations -->
+</div> <!-- id: midContainer -->
+<div id="bottomContainer" style="clear: both; margin: -20px 0px; padding: 0px 0px;">
+<div id="links" style="float: left; width: 60%">
+<div id="linksHeading" style="margin: -30px 0px; padding: 0px 0px;">
 
 # links
 
-**TWITCH**- https://www.twitch.tv/homoalgoriticus
+</div>
 
-**LINKEDIN**- https://www.linkedin.com/in/anthonyquivers/
+**TWITCH**- https://www.twitch.tv/homoalgoriticus  
+**LINKEDIN**- https://www.linkedin.com/in/anthonyquivers
+
+</div> <!-- id: links --> 
+<div id="contact" style="float: right; width: 40%">
+<div id="contactHeading" style="margin: -30px 0px; padding: 0px 0px;">
 
 # contact
 
-EMAIL- peb.ble.bea.pro@gmail.com
+</div> <!-- id: contactHeading -->
 
-PHONE- +1-443-364-0158 
+**EMAIL**- peb.ble.bea.pro@gmail.com  
+**PHONE**- +1-443-364-0158 
 
+</div> <!-- id:contact -->
+</div> <!-- id:bottomContainer -->
+<div id="footer" style="clear: both; margin: 0px 0px; padding: 0px 0px;">
 
 ** Generated by Resume Calc.
 ** sometimes these docs are live
 ** you may see things in the process of changing
+
+</div> <!-- id: footer -->
+</div> <!-- id: main -->

@@ -1,5 +1,6 @@
 # A N T H O N Y  Q U I V E R S
 
+<div id="main" style="margin: 0px 0px">
 <div id="experience" style="margin: 0px 0px; padding: 0px 0px;">
 
 # experience
@@ -63,7 +64,7 @@ Graduated in Jun 2008
 **PORTFOLIO**- https://github.com/BARarch  
 
 </div> <!-- id: links -->
-<div id="bottomcContianer" style="margin:0px 0px; padding:0px 0px">
+<div id="bottomcContianer" style="margin: 0px 0px; padding: 0px 0px">
 <div id="skills" style="float: left; width:50%;">
 <div id="skillsHeader" style="width: 60%;">
 
@@ -130,3 +131,4 @@ PHONE- +1-443-364-0158
 ** you may see things in the process of changing
 
 </div> <!-- id: footer -->
+</div> <!-- id: main -->
