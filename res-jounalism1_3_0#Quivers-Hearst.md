@@ -96,7 +96,7 @@ Growth Opportunities
 
 </div>
 
-**TWITCH**- https://www.twitch.tv/PebbleBeachProgramming/ 
+**TWITCH**- https://www.twitch.tv/PebbleBeachProgramming 
 **LINKEDIN**- https://www.linkedin.com/in/anthonyquivers
 
 </div> <!-- id: links --> 
