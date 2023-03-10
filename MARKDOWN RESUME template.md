@@ -120,7 +120,7 @@ Ability-to-Make-an-Impact  Work-Life-Balance  Goal-Completion  Growth-Opportunit
 
 **PORTFOLIO**- https://github.com/BARarch/open-resume  
 
-**LINKEDIN**- https://www.linkedin.com/in/anthonyquivers    
+**LINKEDIN**- https://www.linkedin.com/in/anthonyquivers      
 
 **GITHUB**- https://github.com/BARarch  
 
