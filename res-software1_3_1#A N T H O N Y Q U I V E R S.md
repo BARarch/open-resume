@@ -64,6 +64,7 @@ Graduated in Jun 2008
 **PORTFOLIO**- https://github.com/BARarch/open-resume  
 
 </div> <!-- id: links -->
+
 <div id="bottomcContianer" style="margin: 0px 0px; padding: 0px 0px">
 <div id="skills" style="float: left; width:50%;">
 <div id="skillsHeader" style="width: 60%;">
