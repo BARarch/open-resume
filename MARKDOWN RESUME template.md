@@ -10,15 +10,15 @@ Cross platform tool for resume management and transfer.
 
 ###### Competitive Coder-HOMOALGORITICUS
 May-2022 Current Job
-Competes internationally in coding competitions.  Produces content for solutions to challenges in algorithms, data structures and mathematics, and runs vlog and livestream.  Creates social media and educational material. 
+Competes internationally in coding competitions.  Produces content for solutions to challenges in algorithms, data structures and mathematics, and runs vlog and livestream.  Creates social media and educational material. *python, javascript, golang, markdown, css, html, gitHub*
 
 ###### Vlog Organizer and Broadcast Engineer-HOMOALGORITICUS
 May-2022 Current Job
-Produces content for competitive coding vlog and livestream.  Manages graphics, audio, video lighting, and scripts for broadcast activities.  Creates social media and educational material. 
+Produces content for competitive coding vlog and livestream.  Manages graphics, audio, video lighting, and scripts for broadcast activities.  Creates social media and educational material. *Adobe Illustrator+Photoshop, Twitch Studio, Phillips Hue* 
 
 ###### Professor-MORGAN STATE UNIVERSITY  
 May-2018 Current Job
-Developed an architectural design course based on parametrics and algorithms. Students use algorithms to generate and explore spacial experiences.  The course is offered as an elective for the graduate curriculum in the school of architecture and urban planning, and focuses on the synthesis of space as well as visualization techniques with modern 3D graphics software.
+Developed an architectural design course based on parametrics and algorithms. Students use algorithms to generate and explore spacial experiences.  The course is offered as an elective for the graduate curriculum in the school of architecture and urban planning, and focuses on the synthesis of space as well as visualization techniques with modern 3D graphics software. *Rhinoceros, Grasshopper, AutoDesk Maya, Infographic Design, print, graphics, illustrator, photoshop, indesign*
 
 ###### Logistics Manager-RUTLAND BEARD FLORAL CORPORATION  
 November-2021 to October-2022
@@ -30,7 +30,7 @@ Delivered floral products door to door throughout Frederick, MD and the Baltimor
 
 ###### Merchandising Team Lead-HOME DEPOT CORPORATION  
 December-2021 to May-2022
-Team leader responsible for executing merchandising campaigns for retail at various locations in the Balitmore region.  Tasks involved assigning plan-o-grams, conducting surveys at bays, recycling new product, and large-scale displays and installations.
+Responsible for executing merchandising programs in 10 stores in the Baltimore region. Tasks involved assigning plan-o-grams, conducting safety surveys for in-store bays, recycling new product, and the construction large-scale displays and installations.  *Ability requirements included operating heavy equipment including forklifts, cherrypickers, working in confined areas, working at up to 40 feet from ground, balancing, lifting product and equipment weighing up to 50lbs both inside and outside, overnight*
 
 ###### Traveling Merchandising Associate-hOME DEPOT COROPERATION
 December-2021 to May-2022
@@ -38,7 +38,7 @@ Responsible for executing merchandising programs in 10 stores in the Balitmore r
 
 ###### Warehouse Associate-RUTLAND BEARD FLORAL CORPORATION  
 January-2019 to July-2021
-Processes freight, prepares, stages and manages product for the main design room floor.
+Warehouse processing lead. Responsible for managing the flow of product from truck to design floor.  Worked in confined areas.  *Constructed and maintained servicing bays, storage bays, work areas, and did general maintenance for warehouse grounds.  Processed floral product, handled soils, plant foods, and other packages weighing 50lbs. and more.*
 
 ###### Processing Engineer and Logistics Lead
 January-2019 to October-2022
@@ -46,15 +46,15 @@ Warehouse processing lead. Responsible for managing the flow of product from tru
 
 ###### Technical Consultant-BILLHIGHWAY  
 September-2017 to April-2018
-Programmed a web crawler to collect contact information from over 1,000 client-affiliated websites, enabling the client to rapidly update its existing contacts in Salesforce, and generate over 2,000 new contacts on the first run, reducing its lead generation time from 2 months to 1 hour. Created a Windows native application from Python scripts, which consolidated the actions from 5 of the client's software programs into a single application, streamlining their contact management processes to efficiently advance their sales lead generation efforts.
+Programmed a web crawler to collect contact information from over 1,000 client-affiliated websites, enabling the client to rapidly update its existing contacts in Salesforce, and generate over 2,000 new contacts on the first run, reducing its lead generation time from 2 months to 1 hour. Created a Windows native application from *.net and Python* scripts, which consolidated the actions from 5 of the client's software programs into a single application, streamlining their contact management processes to efficiently advance their sales lead generation efforts. *.net and Python*
 
 ###### Software Engineer-INNOVATIVE DRIVE CORPORATION  
 March-2010 to January-2011
-Developed a hardware prototype for a client to automate the production of orthotics. Designed the printed circuitry within sensor array panels and created a data processing algorithm in C# for sensor measurements.  Created and improved a user touchscreen interface with ARDUINO microprocessors, which was used to control a dynam-ically tuned, shock point display in react.js.
+Developed a hardware prototype for a client to automate the production of orthotics. Designed the printed circuitry within sensor array panels and created a data processing algorithm in C# for sensor measurements.  Created and improved a user touchscreen interface with ARDUINO microprocessors.  *.net and react.js., data viewer, data analytics, medical*
 
 ###### Product Manager-ZONER INC
 July-2016 to May-2017
-Coordinated and managed development operations for a New York zoning web platform. Responsible for the information architecture of the company’s’ proprietary dataset. Designed user interfaces with feature wireframes in photoshop and indesign. Developed algorithms for the backend computation of the services’ key features in ruby and ruby-on-rails. Enhanced the delivery time of in-house property feasibility reports from 2 weeks to 2 hours.
+Coordinated and managed development operations for a New York zoning web platform. Responsible for the information architecture of the company’s’ proprietary dataset. Designed user interfaces with feature wireframes in photoshop and indesign. Developed algorithms for the backend computation of the services’ key features in ruby and ruby-on-rails. Enhanced the delivery time of in-house property feasibility reports from 2 weeks to 2 hours. *ruby, rubyonrails, photoshop, illustrator, indesign*
 
 ###### Special Inspections Building Code Inspector-MARCH ARCHITECTS
 April-2016 to May-2017

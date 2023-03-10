@@ -6,7 +6,7 @@
 
 ###### Competitive Coder-HOMOALGORITICUS
 May-2022 Current Job\
-Competes internationally in coding competitions.  Produces content for solutions to challenges in algorithms, data structures and mathematics, and runs vlog and livestream.  Creates social media and educational material. *python javascript golang*
+Competes internationally in coding competitions.  Produces content for solutions to challenges in algorithms, data structures and mathematics, and runs vlog and livestream.  Creates social media and educational material. *python, javascript, golang, markdown, css, html, gitHub*
 
 ###### Professor-MORGAN STATE UNIVERSITY  
 May-2018 Current Job\
