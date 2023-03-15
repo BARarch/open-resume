@@ -13,6 +13,7 @@ Cross platform tool for resume management and transfer.
 
 # experience
 
+
 ###### Competitive Coder-PEBBLE BEACH PROGRAMMING
 May-2022 Current Job\
 Competes internationally in coding competitions.  Produces content for solutions to challenges in algorithms, data structures and mathematics, and runs vlog and livestream.  Creates social media and educational material. *python, javascript, golang, markdown, css, html, gitHub*
@@ -115,8 +116,8 @@ Ability-to-Make-an-Impact  Work-Life-Balance  Goal-Completion  Growth-Opportunit
 **HACKERRANK**- https://www.hackerrank.com/homoAlgoriticus  
 
 **CODESIGNAL**- https://app.codesignal.com/profile/homoalgoriticus  
-
-**LEETCODE**- https://leetcode.com/Pebble-Beach-Programming  
+ 
+**LEETCODE**- https://leetcode.com/Pebble-Beach-Programming    
 
 **PORTFOLIO**- https://github.com/BARarch/open-resume  
 
