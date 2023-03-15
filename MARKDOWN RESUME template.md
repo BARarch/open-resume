@@ -37,7 +37,7 @@ Delivered floral products door to door throughout Frederick, MD and the Baltimor
 December-2021 to May-2022\
 Responsible for executing merchandising programs in 10 stores in the Baltimore region. Tasks involved assigning plan-o-grams, conducting safety surveys for in-store bays, recycling new product, and the construction large-scale displays and installations.  *Ability requirements included operating heavy equipment including forklifts, cherrypickers, working in confined areas, working at up to 40 feet from ground, balancing, lifting product and equipment weighing up to 50lbs both inside and outside, overnight*
 
-###### Traveling Merchandising Associate-hOME DEPOT CORPORATION
+###### Traveling Merchandising Associate-HOME DEPOT CORPORATION
 December-2021 to May-2022\
 Responsible for executing merchandising programs in 10 stores in the Baltimore region. Tasks involved assigning plan-o-grams, conducting safety surveys for in-store bays, recycling new product, and the construction large-scale displays and installations.  *Ability requirements included operating heavy equipment including forklifts, cherrypickers, working in confined areas, working at up to 40 feet from ground, balancing, lifting product and equipment weighing up to 50lbs both inside and outside, overnight*
 
