@@ -5,7 +5,8 @@
 
 # experience
 
-###### Vlog Organizer and Broadcast Engineer-HOMOALGORITICUS
+
+###### Vlog Organizer and Broadcast Engineer-PEBBLE BEACH PROGRAMMING
 May-2022 Current Job\
 Produces content for competitive coding vlog and livestream.  Manages graphics, audio, video lighting, and scripts for broadcast activities.  Creates social media and educational material. *Adobe Illustrator+Photoshop, Twitch Studio, Phillips Hue*
 
@@ -96,7 +97,7 @@ Growth Opportunities
 
 </div>
 
-**TWITCH**- https://www.twitch.tv/homoalgoriticus  
+**TWITCH**- https://www.twitch.tv/PebbleBeachProgramming/ 
 **LINKEDIN**- https://www.linkedin.com/in/anthonyquivers
 
 </div> <!-- id: links --> 

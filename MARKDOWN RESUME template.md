@@ -14,11 +14,12 @@ Cross platform tool for resume management and transfer.
 
 # experience
 
-###### Competitive Coder-HOMOALGORITICUS
+
+###### Competitive Coder-PEBBLE BEACH PROGRAMMING
 May-2022 Current Job\
 Competes internationally in coding competitions.  Produces content for solutions to challenges in algorithms, data structures and mathematics, and runs vlog and livestream.  Creates social media and educational material. *python, javascript, golang, markdown, css, html, gitHub*
 
-###### Vlog Organizer and Broadcast Engineer-HOMOALGORITICUS
+###### Vlog Organizer and Broadcast Engineer-PEBBLE BEACH PROGRAMMING
 May-2022 Current Job\
 Produces content for competitive coding vlog and livestream.  Manages graphics, audio, video lighting, and scripts for broadcast activities.  Creates social media and educational material. *Adobe Illustrator+Photoshop, Twitch Studio, Phillips Hue* 
 
@@ -113,19 +114,19 @@ Ability-to-Make-an-Impact  Work-Life-Balance  Goal-Completion  Growth-Opportunit
 
 # links
 
-**HACKERRANK**- https://www.hackerrank.com/homoAlgoriticus
+**HACKERRANK**- https://www.hackerrank.com/homoAlgoriticus  
 
 **CODESIGNAL**- https://app.codesignal.com/profile/homoalgoriticus  
+ 
+**LEETCODE**- https://leetcode.com/Pebble-Beach-Programming  
 
-**LEETCODE**- https://leetcode.com/homoAlgoriticus/  
+**PORTFOLIO**- https://github.com/BARarch/open-resume  
 
-**PORTFOLIO**- https://github.com/BARarch/My-Hackerranks  
-
-**LINKEDIN**- https://www.linkedin.com/in/anthonyquivers/  
+**LINKEDIN**- https://www.linkedin.com/in/anthonyquivers  
 
 **GITHUB**- https://github.com/BARarch  
 
-**TWITCH**- https://www.twitch.tv/homoalgoriticus
+**TWITCH**- https://www.twitch.tv/PebbleBeachProgramming  
 
 </div> <!-- id: links -->
 <div id="contact" style="margin: 0px 0px; padding: 0px 0px;">
