@@ -4,15 +4,13 @@
 
 **HACKERRANK**- https://www.hackerrank.com/homoAlgoriticus
 
-**CODESIGNAL**- https://app.codesignal.com/profile/homoalgoriticus
+**LEETCODE**- https://leetcode.com/Pebble-Beach-Programming  
 
-**LEETCODE**- https://leetcode.com/homoAlgoriticus/
+**LINKEDIN**- https://www.linkedin.com/in/anthonyquivers  
 
-**LINKEDIN**- https://www.linkedin.com/in/anthonyquivers/
+**TWITCH**- https://www.twitch.tv/https://www.twitch.tv/PebbleBeachProgramming  
 
-**TWITCH**- https://www.twitch.tv/homoalgoriticus
-
-**GITHUB**- https://github.com/BARarch
+**SOLUTIONS**- https://github.com/BARarch/My-Hackerranks  
 
 # contact
 
@@ -22,7 +20,7 @@ PHONE- +1-443-364-0158
 
 # experience
 
-###### Competitive Coder-HOMOALGORITICUS
+###### Competitive Coder-PEBBLE BEACH PROGRAMMING
 May-2022 Current Job
 Competes internationally in coding competitions.  Produces content for solutions to challenges in algorithms, data structures and mathematics, and runs vlog and livestream.  Creates social media and educational material. *python javascript golang*
 

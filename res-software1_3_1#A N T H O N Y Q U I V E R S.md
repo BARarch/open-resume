@@ -4,7 +4,7 @@
 
 # experience
 
-###### Competitive Coder-HOMOALGORITICUS
+###### Competitive Coder-PEBBLE BEACH PROGRAMMING
 May-2022 Current Job\
 Competes internationally in coding competitions.  Produces content for solutions to challenges in algorithms, data structures and mathematics, and runs vlog and livestream.  Creates social media and educational material. *python, javascript, golang, markdown, css, html, gitHub*
 
@@ -52,15 +52,15 @@ Graduated in Jun 2008
 
 # links
 
-**HACKERRANK**- https://www.hackerrank.com/homoAlgoriticus   
+**HACKERRANK**- https://www.hackerrank.com/homoAlgoriticus  
 
-**LEETCODE**- https://leetcode.com/homoAlgoriticus/  
+**LEETCODE**- https://leetcode.com/Pebble-Beach-Programming    
 
-**LINKEDIN**- https://www.linkedin.com/in/anthonyquivers/  
+**LINKEDIN**- https://www.linkedin.com/in/anthonyquivers  
 
-**TWITCH**- https://www.twitch.tv/homoalgoriticus  
+**TWITCH**- https://www.twitch.tv/PebbleBeachProgramming  
 
-**PORTFOLIO**- https://github.com/BARarch  
+**PORTFOLIO**- https://github.com/BARarch/open-resume  
 
 </div>
 <div id="bottomcContianer" style="margin:0px 0px; padding:0px 0px">
