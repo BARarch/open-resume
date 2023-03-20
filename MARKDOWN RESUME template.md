@@ -21,7 +21,7 @@ Competes internationally in coding competitions.  Produces content for solutions
 May-2022 Current Job\
 Produces content for competitive coding vlog and livestream.  Manages graphics, audio, video lighting, and scripts for broadcast activities.  Creates social media and educational material. *Adobe Illustrator+Photoshop, Twitch Studio, Phillips Hue* 
 
-###### Professor-MORGAN STATE UNIVERSITY  
+###### Adjunct Professor-MORGAN STATE UNIVERSITY  
 May-2018 Current Job\
 Developed an architectural design course based on parametric structures and algorithms. Students use algorithms to generate and explore spacial experiences.  The course is offered as an elective for the graduate curriculum in the school of architecture and urban planning, and focuses on the synthesis of space as well as visualization techniques with modern 3D graphics software. *Rhinoceros, Grasshopper, AutoDesk Maya, Infographic Design, print, graphics, illustrator, photoshop, indesign*
 
