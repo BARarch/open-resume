@@ -1,5 +1,22 @@
 # A N T H O N Y  Q U I V E R S
 
+# projects
+
+**OPPEN RESUME**\
+ NO NEED TO PRESS LINK the app is running this page\
+ code below
+
+**LEETCODE TESTER**\
+Personal collection of algorithmic solution code\
+--and--\
+ Problem of the day 
+
+**S T O R Y  T I M E**\
+Conversations with chatGPT and other fantasies
+
+**NO STRODES**\
+Mapping app for streets and roads only
+
 # links
 
 **HACKERRANK**- https://www.hackerrank.com/homoAlgoriticus
