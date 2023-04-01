@@ -14,6 +14,9 @@ Personal collection of algorithmic solution code\
 **S T O R Y  T I M E**\
 Conversations with chatGPT and other fantasies
 
+**REACT TETRIS**\
+Classic tectris game implemented in react js
+
 **NO STRODES**\
 Mapping app for streets and roads only
 
